@@ -1,6 +1,13 @@
+![logo](https://github.com/tah10mid/tah10mid/blob/main/Screenshot%202024-01-03%20214600.png)
 <h1 align="center">Hi 👋, I'm @tah10mid</h1>
 <h3 align="center">A passionate cse student from bangladesh.</h3>
-<img align="right" alt="coding" width="400"src"https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tah10mid&label=Profile%20views&color=0e75b6&style=flat" alt="tah10mid" /> </p>
 
